@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Learn Better Way To Eat!
+  title: Learn everything!
   content: 'Healthy doesn''t mean you have to sacrifice your favorite Cuisine and
     adopt a foreign one. With proper knowledge or help, you can eat better with food
     available at your Home. We will help you to make better food & lifestyle choice.
