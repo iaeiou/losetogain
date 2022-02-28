@@ -50,20 +50,22 @@ process:
       all your doubts & queries. We will take care of everything, right from your
       nutrition & workout plans, to habit tracking, to goal setting, to overcoming
       your challenges.
-
 call_to_group:
   enable: true
   title: "‘Lose To Gain’ - Facebook Community"
   image: images/fb-group.png
-  content: "Lose To Gain is the Bangladesh's largest online fitness and nutrition community. Lose to Gain started its journey as a small facebook group that used to teach people about nutrition and help them get fit. Today, it is one of the most informative and engaging fitness communities with more than 145,000 members."
-  button: "https://www.facebook.com/groups/losetogainbd"
-
+  content: Lose To Gain is the Bangladesh's largest online fitness and nutrition community.
+    Lose to Gain started its journey as a small facebook group that used to teach
+    people about nutrition and help them get fit. Today, it is one of the most informative
+    and engaging fitness communities with more than 145,000 members.
+  button: https://www.facebook.com/groups/losetogainbd
 call_to_action:
   enable: true
-  title: Download Our Free E-Book Fit Guide to learn the basics about Nutrition.
+  title: Get the Ebook for free!
   image: images/fitguide.jpg
-  content: 'Fit Guide E-book is written by our Sajedur Rahman. How to lose weight
-    or eat healthily or maintain a healthy lifestyle is the first question that comes
-    to everyone''s mind. You will get a basic idea about all these from this book.  '
+  content: Fit Guide E-book is written by our Sajedur Rahman. How to lose weight or
+    eat healthily or maintain a healthy lifestyle is the first question that comes
+    to everyone's mind. You will get a basic idea about all these from this book!
   button: "#"
+
 ---
