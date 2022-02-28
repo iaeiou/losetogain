@@ -11,7 +11,7 @@ banner:
   download_button: "#"
   hire_button: "#"
 calculator:
-  title: Instantly Calculate Your BMR, Macros & Body Fat
+  title: Instantly Calculate!
   content: |-
     To start your fitness journey you need to know a few details.
 
